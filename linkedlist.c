@@ -12,6 +12,8 @@ int main()
 {
     int n;
     printf("Enter the number of nodes in linked list\n");
+    printf("Enter the number of nodes in linked list\n");
+
     scanf("%d", &n);
     createlinkedlist(n);
     display();
